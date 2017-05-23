@@ -1,0 +1,99 @@
+{
+	"books": [
+		{
+			"bookName": "Essence of Neeti Chandrika",
+			"bookIcon": "",
+			"bookURL": "http://www.kamakoti.org/kamakoti/articles/ESSENCE%20OF%20NEETI%20CHANDRIKA.pdf"
+		},
+		{
+			"bookName": "Essence of Brahma Sutras",
+			"bookIcon": "",
+			"bookURL": "http://www.kamakoti.org/kamakoti/articles/Essence%20of%20Brahma%20Sutras.pdf"
+		},
+		{
+			"bookName": "Essence of Hindu Festivals & Austerities",
+			"bookIcon": "",
+			"bookURL": "http://www.kamakoti.org/kamakoti/articles/ESSENCE%20OF%20HINDU%20FESTIVALS%20AND%20AUSTERITIES.pdf"
+		},
+		{
+			"bookName": "Essence of Narada Charitra",
+			"bookIcon": "",
+			"bookURL": "http://www.kamakoti.org/kamakoti/articles/ESSENCE-OF-NARADA-CHARITRA.pdf"
+		},
+		{
+			"bookName": "Essence of Sankhya Pari Jnana",
+			"bookIcon": "",
+			"bookURL": "http://www.kamakoti.org/kamakoti/articles/ESSENCE%20OF%20SANKHYA%20PARI%20JNANA.pdf"
+		},
+		{
+			"bookName": "Select stories from the Puranas",
+			"bookIcon": "",
+			"bookURL": "http://www.kamakoti.org/kamakoti/articles/Select%20Stories%20from%20Puranas.pdf"
+		},
+		{
+			"bookName": "Essence of Virata Parva of Mahabharata",
+			"bookIcon": "",
+			"bookURL": "http://www.kamakoti.org/kamakoti/articles/ESSENCE%20OF%20VIRAT%20PARVA%20OF%20MAHA%20BHARATA.pdf"
+		},
+		{
+			"bookName": "Essence of Bharat Yatra Smriti",
+			"bookIcon": "",
+			"bookURL": "http://www.kamakoti.org/kamakoti/articles/Essence%20of%20Bharata%20Yatra%20Smriti.pdf"
+		},
+		{
+			"bookName": "Dharma Bindu",
+			"bookIcon": "",
+			"bookURL": "http://www.kamakoti.org/kamakoti/articles/Dharma%20Bindu.pdf"
+		},
+		{
+			"bookName": "Essence of Dwadasha Upanishads",
+			"bookIcon": "",
+			"bookURL": "http://www.kamakoti.org/kamakoti/articles/ESSENCE%20OF%20DWAADASHA%20UPANISHADS.pdf"
+		},
+		{
+			"bookName": "Upanishad Saramsha",
+			"bookIcon": "",
+			"bookURL": "http://www.kamakoti.org/kamakoti/articles/Quintessence%20of%20Upanishads.pdf"
+		},
+		{
+			"bookName": "Essence of Amarnatha Yatra Phala",
+			"bookIcon": "",
+			"bookURL": "http://www.kamakoti.org/kamakoti/details/Essence%20of%20Amarnatha%20yatra%20Phala.pdf"
+		},
+		{
+			"bookName": "Samskritashri Patamala - 1",
+			"bookIcon": "",
+			"bookURL": "http://www.kamakoti.org/kamakoti/books/Samskrutashri%20Patamala-1.pdf"
+		},
+		{
+			"bookName": "Samskritashri Patamala - 2",
+			"bookIcon": "",
+			"bookURL": "http://www.kamakoti.org/kamakoti/books/Samskrutashri%20Patamala-2.pdf"
+		},
+		{
+			"bookName": "Samskritashri Patamala - 3",
+			"bookIcon": "",
+			"bookURL": "http://www.kamakoti.org/kamakoti/books/Samskrutashri%20Patamala-3.pdf"
+		},
+		{
+			"bookName": "Samskritashri Patamala - 4 and 5",
+			"bookIcon": "",
+			"bookURL": "http://www.kamakoti.org/kamakoti/books/Samskrutashri%20Patamala-4&5.pdf"
+		},
+		{
+			"bookName": "Samskritashri Patamala - 6",
+			"bookIcon": "",
+			"bookURL": "http://www.kamakoti.org/kamakoti/books/Samskrutashri%20Patamala-6.pdf"
+		},
+		{
+			"bookName": "Sama Veda - An Introduction",
+			"bookIcon": "",
+			"bookURL": "http://www.kamakoti.org/kamakoti/books/SamaVeda-AnIntroduction.pdf"
+		},
+		{
+			"bookName": "Balabodha Sangraham",
+			"bookIcon": "",
+			"bookURL": "http://www.kamakoti.org/kamakoti/articles/Balabodha%20Sangraham%20-%202.pdf"
+		}
+		]
+}

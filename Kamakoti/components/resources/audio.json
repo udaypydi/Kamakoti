@@ -1,0 +1,24 @@
+{
+	"audio": [
+		{
+		"audioName": "Anugraha Bhashanam",
+		"audioURL": "https://files.backand.io/kanchikamakotipeetham/Anugraha-Bhashanam-Veda-Sabha-Kumbakonam.mp3"
+	},
+	{
+		"audioName": "Anugraha Bhashanam Part 2",
+		"audioURL": "http://www.kamakoti.org/kamakoti/audio/AnugrahaBhashanam-Ramamandiram.mp3"
+	},
+	{
+		"audioName": "Mullaivaisal Village",
+		"audioURL": "http://www.kamakoti.org/kamakoti/audio/Anugraha-Bhashanam-Mullaivasal.mp3"
+	},
+	{
+		"audioName": "Kamakoti Oriental School",
+		"audioURL": "http://www.kamakoti.org/kamakoti/audio/Anugraha-Bhashanam-Oriental-School-Kumbakonam.mp3"
+	},
+	{
+		"audioName": "Lalapet",
+		"audioURL": "http://www.kamakoti.org/kamakoti/audio/Lalapet%20Kumbhabhishekam%20Yagashala%20puja-%20Anugraha%20Bhashanam.mp3"
+	}
+]
+}
